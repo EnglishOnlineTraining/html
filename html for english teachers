@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My Vocabulary Learning Page</title>
+  </head>
+  <body>
+    <h1>My Vocabulary Learning Page</h1>
+    <h2>Word List</h2>
+    <ul>
+      <li><strong>Word:</strong> Definition</li>
+      <li><strong>Word:</strong> Definition</li>
+      <li><strong>Word:</strong> Definition</li>
+      <!-- Add more words and definitions as needed -->
+    </ul>
+    <h2>Flashcards</h2>
+    <div class="flashcard">
+      <div class="flashcard-term">Word</div>
+      <div class="flashcard-definition">Definition</div>
+    </div>
+    <!-- Add more flashcards as needed -->
+  </body>
+</html>
